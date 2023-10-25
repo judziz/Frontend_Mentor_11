@@ -3,7 +3,7 @@
 | Useful Links  |
 | ----------------- |
 [Assignement Link](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
-[Vercel Link - Desktop version](https://frontend-mentor-03.vercel.app/)
+[Vercel Link - Desktop version](https://frontend-mentor-11-livid.vercel.app/)
 
 ---
 
